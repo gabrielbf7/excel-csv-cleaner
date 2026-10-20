@@ -1,0 +1,197 @@
+name,email,phone,signup_date,city
+Grace Anderson,grace.anderson@example.com,(512) 555-0146,2023-11-11,Austin
+Sarah Young,sarah.young@example.com,(312) 555-0107,2023-09-04,Chicago
+Emily Martin,emily.martin@example.com,(305) 555-0110,2023-03-29,Miami
+Chloe Wright,chloe.wright@example.com,(206) 555-0108,2024-06-29,Seattle
+William Johnson,,(312) 555-0116,2024-11-06,Chicago
+Sophia Moore,sophia.moore@example.com,(206) 555-0170,not a date,Seattle
+  Daniel Lewis  ,daniel.lewis@example.com,(303) 555-0167,2024-09-13,  Denver  
+,,,,
+James Harris,james.harris@example.com,,2024-07-06,Seattle
+Chloe Young,chloe.young@example.com,(312) 555-0191,2023-11-16,Chicago
+Sarah Martin,sarah.martin@example.com,(206) 555-0185,2024-10-27,Seattle
+Owen Taylor,owen.taylor@example.com,,2024-06-13,Denver
+Noah Hall,noah.hall@example.com,(206) 555-0115,2023-09-11,Seattle
+  Henry Wright  ,henry.wright@example.com,(312) 555-0108,2023-12-13,  Chicago  
+Sarah Miller,sarah.miller@example.com,,2024-07-21,Austin
+Jack Davis,jack.davis@example.com,(312) 555-0175,2023-08-14,Chicago
+Mia Hall,mia.hall@example.com,(512) 555-0109,2024-12-25,Austin
+Emily Hall,emily.hall@example.com,(512) 555-0129,2023-03-11,Austin
+Emily Walker,emily.walker@example.com,,2023-03-14,Austin
+Sarah Anderson,sarah.anderson@example.com,(305) 555-0130,2023-10-13,Miami
+Daniel Harris,daniel.harris@example.com,(206) 555-0127,2024-07-06,Seattle
+Daniel Wright,,(312) 555-0192,2024-08-07,Chicago
+  Charlotte King  ,charlotte.king@example.com,(305) 555-0160,2023-09-06,  Miami  
+Noah White ,noah.white@example.com,(512) 555-0106,2024-08-21,Austin
+Jack Thomas,jack.thomas@example.com,(206) 555-0152,2023-07-14,Seattle
+Emily Clark,emily.clark@example.com,(512) 555-0112,2024-11-05,Austin
+Amelia Anderson,amelia.anderson@example.com,(206) 555-0145,2024-03-09,Seattle
+Daniel Brown,daniel.brown@example.com,(206) 555-0159,2023-02-25,Seattle
+Chloe Taylor,chloe.taylor@example.com,(512) 555-0107,2024-02-17,Austin
+Grace Martin,grace.martin@example.com,(303) 555-0113,2023-09-12,Denver
+Owen Wright,owen.wright@example.com,(312) 555-0124,2024-07-03,Chicago
+Noah Anderson,noah.anderson@example.com,(206) 555-0117,2024-03-08,
+Mia Lewis,mia.lewis@example.com,(312) 555-0135,2024-04-18,Chicago
+Daniel Martin,daniel.martin@example.com,(312) 555-0109,2024-03-29,Chicago
+Lucas Jackson,lucas.jackson@example.com,(305) 555-0112,2023-00-10,Miami
+Jack Brown,jack.brown@example.com,(305) 555-0101,2023-04-06,Miami
+  William Davis  ,william.davis@example.com,(312) 555-0121,2024-02-21,  Chicago  
+Emily Wilson,emily.wilson@example.com,(206) 555-0161,2023-08-07,Seattle
+Olivia Brown,olivia.brown@example.com,(206) 555-0107,2023-06-18,Seattle
+Owen Young,owen.young@example.com,(206) 555-0100,2024-02-04,Seattle
+Noah Miller,noah.miller@example.com,(303) 555-0158,2023-10-20,Denver
+Ava Lewis,ava.lewis@example.com,(206) 555-0189,13/45/2024,Seattle
+Chloe Moore,chloe.moore@example.com,(206) 555-0119,2023-07-14,Seattle
+James Wright,james.wright@example.com,(303) 555-0127,2023-03-01,Denver
+Daniel White,daniel.white@example.com,(305) 555-0194,2024-07-09,Miami
+Ava Martin,ava.martin@example.com,(512) 555-0195,2023-11-18,Austin
+Noah White,noah.white@example.com,(512) 555-0106,2024-08-21,Austin
+Ethan Moore,ethan.moore@example.com,(303) 555-0108,2023-09-08,Denver
+Noah Brown,noah.brown@example.com,(206) 555-0164,2024-06-27,Seattle
+  Ethan Lewis  ,ethan.lewis@example.com,(312) 555-0107,2024-06-04,  Chicago  
+Sarah Jackson,sarah.jackson@example.com,(512) 555-0123,2023-03-12,Austin
+Ethan Wilson,ethan.wilson@example.com,(305) 555-0108,2024-11-22,Miami
+Ava Hall,ava.hall@example.com,(312) 555-0151,2023-05-03,Chicago
+Jack Jackson,jack.jackson@example.com,(305) 555-0131,2024-08-15,Miami
+Sophia Walker,sophia.walker@example.com,(305) 555-0105,2024-02-31,Miami
+Michael Davis,michael.davis@example.com,(512) 555-0153,2024-11-04,Austin
+Lucas Walker,lucas.walker@example.com,(305) 555-0172,2024-06-19,Miami
+Henry Lewis,henry.lewis@@example.com,(303) 555-0133,2023-07-29,Denver
+James Wilson,james.wilson@example.com,(303) 555-0130,2023-09-29,
+Ethan Clark,ethan.clark@example.com,(206) 555-0116,2024-11-18,Seattle
+Sarah Johnson,sarah.johnson@example.com,,2023-11-20,Denver
+Amelia Davis,amelia.davis@example.com,(512) 555-0101,2024-04-14,Austin
+William White,william.white@example.com,(305) 555-0172,2023-04-13,Miami
+Michael Anderson ,michael.anderson@example.com,(303) 555-0198,2024-06-17,Denver
+Grace Brown,grace.brown@example.com,(512) 555-0168,2023-08-07,Austin
+Lucas Lewis ,lucas.lewis@example.com,(305) 555-0114,2024-01-30,Miami
+Jack Hall,jack.hall@example.com,(305) 555-0133,2024-13-01,Miami
+Ethan Moore,ethan.moore@example.com,(303) 555-0108,2023-09-08,Denver
+Amelia Walker,amelia.walker@example.com,,2023-06-11,Denver
+Olivia King,,(206) 555-0169,2024-12-21,Seattle
+Michael Walker,michael.walker@example.com,(303) 555-0178,2024-10-31,
+Michael Wilson,michael.wilson@@example.com,(305) 555-0101,2024-11-14,Miami
+Amelia Moore,amelia.moore@example.com,(206) 555-0103,2023-07-03,Seattle
+Sarah Anderson ,sarah.anderson@example.com,(305) 555-0130,2023-10-13,Miami
+Daniel Hall,daniel.hall@example.com,(305) 555-0138,2024-11-10,Miami
+Sophia Taylor,sophia.taylor@example.com,(312) 555-0146,2024-03-17,Chicago
+William Thomas,william.thomas@example.com,(512) 555-0117,2023-09-28,Austin
+Owen Davis,owen.davis@example.com,(512) 555-0113,2024-07-20,Austin
+Noah Thomas,noah.thomas@example.com,(312) 555-0134,2023-10-16,Chicago
+Sarah Harris,,(305) 555-0126,2023-12-18,Miami
+Owen Clark,owen.clark@example.com,(312) 555-0187,2024-10-11,Chicago
+Chloe Harris,chloe.harris@example.com,(303) 555-0164,2024-05-15,Denver
+Lucas Martin,lucas.martin@example.com,(303) 555-0106,2023-04-05,Denver
+Ethan Taylor,ethan.taylor@example.com,(206) 555-0135,2023-02-15,Seattle
+Olivia Wilson,olivia.wilson@example.com,(512) 555-0142,2023-05-14,Austin
+Ethan Jackson,ethan.jackson@example.com,(303) 555-0120,2024-03-28,Denver
+Ethan Brown,ethan.brown@example.com,(305) 555-0190,2024-03-13,Miami
+,,,,
+Chloe Moore ,chloe.moore@example.com,(206) 555-0119,2023-07-14,Seattle
+Daniel Anderson,daniel.anderson@example.com,(305) 555-0101,2023-04-25,Miami
+Sophia Hall,sophia.hall@example.com,(512) 555-0188,2023-06-02,Austin
+Michael Hall,michael.hall@example.com,(305) 555-0104,2024-01-14,Miami
+Jack Harris,jack.harris@example.com,(305) 555-0170,2023-06-01,Miami
+Olivia Anderson,olivia.anderson@.com,(206) 555-0116,2023-02-12,Seattle
+Henry Clark,henry.clark@example.com,(303) 555-0146,2023-02-10,Denver
+Noah Lewis,noah.lewis@example.com,(303) 555-0126,2024-11-29,Denver
+Grace Wilson,grace.wilson@.com,(312) 555-0185,2023-04-16,Chicago
+Lucas Hall,lucas.hall@example.com,(303) 555-0199,2024-07-27,Denver
+Noah Wright,noah.wright@example.com,(206) 555-0179,2023-06-08,Seattle
+,,,,
+Sophia King,sophia.king@example.com,,2023-07-01,Chicago
+Amelia Moore,amelia.moore@example.com,(206) 555-0103,2023-07-03,Seattle
+Chloe Thomas,chloe.thomas@example.com,(303) 555-0152,2024-11-16,Denver
+Ava Taylor,ava.taylor@example.com,(312) 555-0134,2023-06-13,Chicago
+Michael Thomas,michael.thomas@example.com,(512) 555-0148,2023-02-09,Austin
+Daniel Young,daniel.young@example.com,(206) 555-0128,2023-07-24,Seattle
+Noah Wilson,noah.wilson@example.com,(206) 555-0144,2023-11-09,Seattle
+Ava Brown,ava.brown@example.com,(312) 555-0128,2023-01-25,Chicago
+Mia Moore,mia.moore@.com,(312) 555-0151,2023-12-03,Chicago
+Sophia Young,sophia.young@example.com,(303) 555-0108,2023-10-13,Denver
+Michael Clark,michael.clark@example.com,(303) 555-0182,2024-06-05,Denver
+Daniel Thomas,daniel.thomas@example.com,(206) 555-0186,2024-07-03,Seattle
+Amelia White,amelia.white@example.com,(303) 555-0103,2023-04-29,Denver
+Jack Wilson,jack.wilson@example.com,(303) 555-0122,2024-08-17,Denver
+Amelia Wright,amelia.wright@example.com,(303) 555-0104,2023-04-22,Denver
+Charlotte Walker,charlotte.walker@example.com,(305) 555-0155,2023-12-20,Miami
+Mia Davis,mia.davis@example.com,(303) 555-0155,2024-09-12,Denver
+Lucas Lewis,lucas.lewis@example.com,(305) 555-0114,2024-01-30,Miami
+James Clark,,(305) 555-0124,2023-09-18,Miami
+James King ,james.king@example.com,(206) 555-0186,2023-08-07,Seattle
+Owen Thomas,owen.thomas@example.com,(512) 555-0190,2024-03-22,Austin
+Grace Martin ,grace.martin@example.com,(303) 555-0113,2023-09-12,Denver
+Ethan Taylor,ethan.taylor@example.com,(206) 555-0135,2023-02-15,Seattle
+  Noah Martin  ,noah.martin@example.com,(512) 555-0166,2024-07-05,  Austin  
+Sophia Taylor,sophia.taylor@example.com,(312) 555-0146,2024-03-17,Chicago
+Lucas Wright,lucas.wright@example.com,(512) 555-0105,2023-09-08,Austin
+,,,,
+Chloe Walker,chloe.walker@example.com,(512) 555-0185,2023-12-05,Austin
+Henry Walker,henry.walker@example.com,(305) 555-0140,2024-11-10,Miami
+Sophia Lewis,sophia.lewis@example.com,(512) 555-0192,2023-11-04,Austin
+Mia Wright,mia.wright@example.com,(305) 555-0139,2024-11-13,Miami
+Mia Miller,mia.miller@example.com,(206) 555-0141,2024-02-17,Seattle
+Owen Johnson,owen.johnson@example.com,(206) 555-0128,2023-06-30,Seattle
+Grace Young,grace.young@.com,(303) 555-0170,2023-05-11,Denver
+Noah Harris,noah.harris@example.com,(312) 555-0153,2024-11-11,Chicago
+  James White  ,james.white@example.com,(206) 555-0186,2023-06-28,  Seattle  
+Henry Johnson,henry.johnson@example.com,(305) 555-0172,2023-11-05,
+Emily Moore,emily.moore@example.com,(206) 555-0153,2024-10-06,Seattle
+Charlotte Martin,,(206) 555-0170,2023-01-01,Seattle
+Sarah Taylor,sarah.taylor@example.com,(303) 555-0136,yesterday,Denver
+Michael Miller,michael.miller@example.com,(206) 555-0174,2024-09-13,Seattle
+Sarah Hall,sarah.hall@example.com,(303) 555-0159,2024-03-28,Denver
+James King,james.king@example.com,(206) 555-0186,2023-08-07,Seattle
+Chloe Wilson,chloe.wilson@example.com,(305) 555-0160,2023-06-23,Miami
+Chloe Brown,chloe.brown@example.com,(512) 555-0136,2024-06-11,Austin
+Michael Martin,michael.martin@example.com,(305) 555-0142,2023-04-06,Miami
+Ethan Young,ethan.young@example.com,(312) 555-0186,2023-11-14,Chicago
+Ethan Walker,ethan.walker@example.com,(312) 555-0125,2023-05-31,Chicago
+Lucas Wright,lucas.wright@example.com,(512) 555-0105,2023-09-08,Austin
+Sarah Hall ,sarah.hall@example.com,(303) 555-0159,2024-03-28,Denver
+Ava Martin,ava.martin@example.com,(512) 555-0195,2023-11-18,Austin
+Sophia Thomas,sophia.thomas@example.com,(206) 555-0178,2023-03-16,Seattle
+Emily Moore,emily.moore@example.com,(206) 555-0153,2024-10-06,Seattle
+Noah Hall,noah.hall@example.com,(206) 555-0115,2023-09-11,Seattle
+Sarah King,sarah.king@example.com,(305) 555-0124,2024-12-14,Miami
+Jack Wright,jack.wright@example.com,(206) 555-0163,2024-02-14,Seattle
+Chloe Johnson,chloe.johnson@example.com,(312) 555-0118,2024-11-02,Chicago
+Noah King,noah.king@example.com,(512) 555-0196,2023-04-20,Austin
+Owen Johnson,owen.johnson@example.com,(206) 555-0128,2023-06-30,Seattle
+Lucas Davis,lucas.davis@example.com,,2023-02-21,Miami
+,,,,
+Olivia Johnson,olivia.johnson@example.com,(305) 555-0131,2023-05-05,Miami
+Grace Moore,grace.moore@example.com,(206) 555-0117,2024-04-20,Seattle
+Emily Brown,emily.brown@example.com,(305) 555-0171,2024-09-01,Miami
+Amelia Taylor,amelia.taylor@example.com,(303) 555-0196,2024-03-29,Denver
+Mia Lewis,mia.lewis@example.com,(312) 555-0135,2024-04-18,Chicago
+Charlotte Hall,charlotte.hall@example.com,(305) 555-0192,2024-05-31,Miami
+  Olivia Harris  ,olivia.harris@example.com,(206) 555-0170,2024-04-01,  Seattle  
+Sophia Jackson,sophia.jackson@example.com,(312) 555-0195,2024-05-01,Chicago
+Lucas Clark,lucas.clark@example.com,(206) 555-0133,2023-09-11,Seattle
+Michael Anderson,michael.anderson@example.com,(303) 555-0198,2024-06-17,Denver
+Henry Brown,henry.brown@example.com,(206) 555-0180,2023-09-02,Seattle
+Ava Johnson,ava.johnson@example.com,(303) 555-0156,2023-03-21,Denver
+James Hall,james.hall@example.com,(303) 555-0130,2023-10-06,Denver
+  Mia Walker  ,mia.walker@example.com,(303) 555-0140,2024-07-07,  Denver  
+,,,,
+Ava Wilson,ava.wilson@example.com,(512) 555-0117,2023-06-04,Austin
+James Wright,james.wright@example.com,(303) 555-0127,2023-03-01,Denver
+Charlotte Lewis,charlotte.lewis@example.com,(312) 555-0149,2024-12-11,Chicago
+William Walker,william.walker@example.com,(312) 555-0190,2023-08-08,Chicago
+Sarah White,sarah.white@example.com,(512) 555-0153,2024-02-22,Austin
+Michael Wright,michael.wright@example.com,(303) 555-0169,2024-04-22,Denver
+Olivia Walker,olivia.walkerexample.com,(206) 555-0107,2023-07-31,Seattle
+Henry White,henry.white@example,(206) 555-0149,2024-08-21,Seattle
+Sarah Brown,sarah.brown@example.com,(512) 555-0197,2024-08-12,Austin
+Jack White,jack.white@example.com,(206) 555-0161,2023-01-07,Seattle
+Ethan Wright,ethan.wright@example.com,(303) 555-0138,2024-02-04,Denver
+Jack Martin,jack.martin@example.com,(206) 555-0168,2024-07-13,Seattle
+Grace Brown,grace.brown@example.com,(512) 555-0168,2023-08-07,Austin
+Amelia Harris,amelia.harris@example.com,(305) 555-0128,2024-05-14,Miami
+  Noah Jackson  ,noah.jackson@example.com,(312) 555-0134,2024-03-22,  Chicago  
+Emily Johnson,emily.johnson@example.com,(206) 555-0103,2024-02-03,Seattle
+William Clark,william.clark@example.com,(303) 555-0185,2024-11-26,Denver
+Olivia Davis,olivia.davis@example.com,(206) 555-0192,2023-06-19,Seattle
+Jack Lewis,jack.lewis@example.com,(206) 555-0116,2024-09-29,Seattle
+Emily Miller,emily.miller@example.com,(305) 555-0103,2024-02-08,Miami
