@@ -1,0 +1,8 @@
+Cleaning summary for messy_customers.csv
+----------------------------------------
+Processed:  196
+Valid:      156
+Invalid:    14
+Duplicates: 20
+
+Empty rows removed: 6
